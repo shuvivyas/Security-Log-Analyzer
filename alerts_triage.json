@@ -1,0 +1,32 @@
+[
+    {
+        "Alert Type": "Brute Force Attack",
+        "IP": "6.3.5.8",
+        "Attempts": 4
+    },
+    {
+        "Alert Type": "Brute Force Attack",
+        "IP": "6.3.5.7",
+        "Attempts": 3
+    },
+    {
+        "Alert Type": "Brute Force Attack",
+        "IP": "1.6.7.2",
+        "Attempts": 6
+    },
+    {
+        "Alert Type": "Brute Force Attack",
+        "IP": "5.1.6.3",
+        "Attempts": 3
+    },
+    {
+        "Alert Type": "Password Spraying Attack",
+        "IP": "6.3.5.8",
+        "User Accounts": [
+            "root",
+            "test",
+            "guest",
+            "admin"
+        ]
+    }
+]
